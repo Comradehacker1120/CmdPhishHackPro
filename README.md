@@ -32,7 +32,7 @@ CmdPhishHackPro is an advanced phishing tool modified from PyPhisher. It provide
 ```bash
 pkg update && pkg upgrade
 pkg install git python php openssh proot -y
-git clone https://gitlab.com/Comradehacker1120/CmdPhishHackPro 
+git clone https://github.com/Comradehacker1120/CmdPhishHackPro 
 cd CmdPhishHackPro 
 termux-setup-storage
 pip3 install -r requirements.txt 
